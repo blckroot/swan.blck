@@ -46,7 +46,7 @@ int main(int argc, char ** argv)
 {
     // Provide some feedback about the usage
     if (argc < 2) {
-        fprintf(stderr, "No command specified\n");
+        fprintf(stderr, "Hi You called for blckswan?!\n");
         return 1;
     }
     // Namespace flags

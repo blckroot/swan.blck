@@ -1,0 +1,36 @@
+HEX
+#b51015
+#DAF7A6
+#FFC300
+#FF5733
+#C70039
+#900C3F
+RGB
+rgb(181, 16, 21)
+rgb(218, 247, 166)
+rgb(255, 195, 0)
+rgb(255, 87, 51)
+rgb(199, 0, 57)
+rgb(144, 12, 63)
+HTML
+style="color:#b51015;"
+style="color:#DAF7A6;"
+style="color:#FFC300;"
+style="color:#FF5733;"
+style="color:#C70039;"
+style="color:#900C3F;"
+CSS
+.color-1 {color: #b51015;}
+.color-2 {color: #DAF7A6;}
+.color-3 {color: #FFC300;}
+.color-4 {color: #FF5733;}
+.color-5 {color: #C70039;}
+.color-6 {color: #900C3F;}
+SCSS
+$color-1: #b51015;
+$color-2: #DAF7A6;
+$color-3: #FFC300;
+$color-4: #FF5733;
+$color-5: #C70039;
+$color-6: #900C3F;
+
